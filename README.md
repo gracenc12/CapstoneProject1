@@ -1,4 +1,4 @@
-Project for Python Fundamental : Student Score Data Management with CRUD (Create, Read, Update, Delete). This project is made for managing student score data, to store data, read, create, update and delete data automatically with programming.
+Project : Student Score Data Management with CRUD (Create, Read, Update, Delete). This project is made for managing student score data, to store data, read, create, update and delete data automatically with programming.
 
 Read Data:
 - A menu to read or to display students score data in a table.
